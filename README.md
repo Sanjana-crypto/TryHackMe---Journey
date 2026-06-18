@@ -103,7 +103,7 @@ I actively use TryHackMe to learn SOC Operations, SIEM, Threat Detection, Incide
 ---
 ## 🏆 TryHackMe Progress
 
-![TryHackMe Profile](thm-profile.png)
+https://tryhackme.com/p/Cyrasec
 
 Current Stats:
 - Completed Rooms: 49
