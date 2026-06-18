@@ -87,6 +87,15 @@ https://tryhackme.com/p/Cyrasec
 I actively use TryHackMe to learn SOC Operations, SIEM, Threat Detection, Incident Response, Linux and Blue Team concepts through hands-on labs and room challenges.
 
 ---
+## 🏆 TryHackMe Progress
+
+![TryHackMe Profile](thm-profile.png)
+
+Current Stats:
+- Completed Rooms: 49
+- Streak: 69 Days
+- Badges: 10
+- Rank: Top 10%
 
 ## 📂 Repository Structure
 
