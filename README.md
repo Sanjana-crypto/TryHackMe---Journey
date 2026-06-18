@@ -1,3 +1,17 @@
+## 🔗 TryHackMe Profile
+
+Profile: https://tryhackme.com/p/Cyrasec
+
+![THM Profile](THM_Profile.png)
+
+---
+
+## 🚀 Learning Journey Snapshot
+
+![THM Journey](THM_Journey_Profile.png)
+
+---
+
 # 🛡️ TryHackMe Cybersecurity Journey
 
 ## About
