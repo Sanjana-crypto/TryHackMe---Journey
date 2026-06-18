@@ -77,6 +77,16 @@ This repository serves as a record of my growth, learning, and progress toward b
 ⭐ Every completed room represents one step closer to my cybersecurity career goal.
 
 ---
+## 🔗 TryHackMe Profile
+
+TryHackMe Username: Cyrasec
+
+Profile:
+https://tryhackme.com/p/Cyrasec
+
+I actively use TryHackMe to learn SOC Operations, SIEM, Threat Detection, Incident Response, Linux and Blue Team concepts through hands-on labs and room challenges.
+
+---
 
 ## 📂 Repository Structure
 
