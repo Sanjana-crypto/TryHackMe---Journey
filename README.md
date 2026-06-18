@@ -1,49 +1,98 @@
-# TryHackMe Journey
+# 🛡️ TryHackMe Cybersecurity Journey
 
 ## About
+
 This repository documents my cybersecurity learning journey on TryHackMe.
 
-I am an AIML graduate and aspiring SOC Analyst, actively building hands-on cybersecurity skills through labs, rooms, and practical exercises.
+I am an AIML graduate and aspiring SOC Analyst, actively building practical skills through hands-on labs, security challenges, and self-study.
 
-## Learning Focus Areas
+The purpose of this repository is to track my progress, document key concepts learned, and showcase my cybersecurity learning path.
+
+---
+
+## 🎯 Career Goal
+
+Aspiring SOC Analyst (Blue Team)
+
+Interested in:
+
 - Security Operations Center (SOC)
-- SIEM Fundamentals
+- SIEM & Log Analysis
 - Threat Detection
 - Incident Response
-- Log Analysis
-- Blue Team Operations
-- Linux Fundamentals
-- Networking Fundamentals
+- Digital Forensics
+- Network Security
+- Linux Administration
+- Cyber Threat Intelligence
 
-## Completed Rooms
+---
 
-### Introduction to SIEM
-**Status:** Completed
+## 📚 Learning Paths
 
-#### Key Topics Learned
-- What is SIEM
-- Log Collection and Management
-- Log Sources and Ingestion
-- Alerting and Detection
-- Security Monitoring
-- Event Correlation
+### SOC Level 1
+- Junior Security Analyst Intro
+- SOC Role in Blue Team
+- Introduction to SIEM
+- Humans as Attack Vectors
+- Systems as Attack Vectors
 
-#### Skills Gained
-- SIEM Fundamentals
-- Log Analysis
-- Security Monitoring
-- Incident Detection
+### Digital Forensics
+- Intro to Digital Forensics
+- Evidence Collection
+- File Analysis
 
-## Progress Tracker
+### Networking Fundamentals
+- OSI Model
+- TCP/IP
+- DNS
+- HTTP/HTTPS
 
-| Room | Status |
-|--------|--------|
-| Introduction to SIEM | Completed |
-| SOC Level 1 Path | In Progress |
-| Blue Team Rooms | In Progress |
+### Linux Fundamentals
+- Linux Commands
+- File Permissions
+- User Management
 
-## Goal
-My goal is to build strong practical cybersecurity skills and start my career as a SOC Analyst.
+---
 
+## 🎯 Future Goals
 
-Learning every day and documenting my cybersecurity journey.
+- Complete TryHackMe SOC Level 1 Path
+- Improve SIEM and Log Analysis Skills
+- Learn Incident Response and Threat Hunting
+- Complete More Blue Team Labs
+- Build Security Monitoring Projects
+- Gain Hands-on Experience with Splunk
+- Participate in Cybersecurity Challenges
+- Build a Strong Cybersecurity Portfolio
+- Secure a SOC Analyst Role
+
+---
+
+## 🌱 Learning Philosophy
+
+I believe cybersecurity is best learned through continuous practice, documentation, and hands-on experience.
+
+This repository serves as a record of my growth, learning, and progress toward becoming a Security Operations Center (SOC) Analyst.
+
+⭐ Every completed room represents one step closer to my cybersecurity career goal.
+
+---
+
+## 📂 Repository Structure
+
+```text
+TryHackMe-Journey/
+│
+├── README.md
+│
+├── SOC-Level-1/
+│   ├── Introduction-to-SIEM/
+│   ├── SOC-Role-in-Blue-Team/
+│   ├── Junior-Security-Analyst-Intro/
+│
+├── Digital-Forensics/
+│
+├── Linux-Fundamentals/
+│
+└── Networking-Fundamentals/
+  
