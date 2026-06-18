@@ -61,4 +61,4 @@ This room provided a strong foundation for understanding how Security Analysts w
 
 ## Completion Proof
 
-![SOC_Room1](completion.png)
+![SOC_Room1](SOC_Room1.png)
