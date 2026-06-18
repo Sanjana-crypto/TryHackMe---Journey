@@ -97,6 +97,16 @@ Current Stats:
 - Badges: 10
 - Rank: Top 10%
 
+---
+## 📈 Progress Snapshot
+
+- TryHackMe Rank: Top 10%
+- Rooms Completed: 49+
+- Learning Focus: SOC, SIEM, Blue Team, Networking, Linux
+- Current Path: SOC Level 1
+
+  ---
+
 ## 📂 Repository Structure
 
 ```text
