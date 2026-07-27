@@ -101,7 +101,7 @@ A Security Engineer focuses on preventing cyber attacks by designing secure syst
 
 ### 🔍 Vulnerability Assessment Exercise
 
-![Vulnerability Analysis](vulnerability_analysis.png)
+![Vulnerabilty Analysis](vulnerabilty_analysis.png)
 
 ### 📧 Security Engineer Workflow
 
